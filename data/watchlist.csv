@@ -1,0 +1,24 @@
+ticker,name,market
+EQNR.OL,Equinor,Oslo Bors
+DNB.OL,DNB Bank,Oslo Bors
+TEL.OL,Telenor,Oslo Bors
+KOG.OL,Kongsberg Gruppen,Oslo Bors
+NHY.OL,Norsk Hydro,Oslo Bors
+MOWI.OL,Mowi,Oslo Bors
+SALM.OL,SalMar,Oslo Bors
+AKRBP.OL,Aker BP,Oslo Bors
+YAR.OL,Yara,Oslo Bors
+TOM.OL,Tomra,Oslo Bors
+AAPL,Apple,US
+MSFT,Microsoft,US
+NVDA,NVIDIA,US
+GOOGL,Alphabet,US
+AMZN,Amazon,US
+META,Meta Platforms,US
+AMD,AMD,US
+JPM,JPMorgan Chase,US
+V,Visa,US
+MA,Mastercard,US
+COST,Costco,US
+BRK-B,Berkshire Hathaway,US
+PLTR,Palantir,US
