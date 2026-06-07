@@ -1,0 +1,65 @@
+{
+  "updated_at": "2026-06-06T23:10:03.716279+00:00",
+  "tickers": {
+    "AMD": {
+      "news_score": 0,
+      "explanation": "Recent headlines are neutral or mixed.",
+      "headlines": [
+        {
+          "ticker": "AMD",
+          "title": "AI Chip Stocks Sold Off This Week. Is AMD a Buying Opportunity or a Falling Knife?",
+          "publisher": "Motley Fool",
+          "link": "https://www.fool.com/investing/2026/06/06/ai-chip-stocks-sold-off-this-week-is-amd-a-buying/",
+          "published_date": "2026-06-06",
+          "sentiment": "neutral"
+        },
+        {
+          "ticker": "AMD",
+          "title": "TD Cowen Raises PT on Advanced Micro Devices (AMD) Stock",
+          "publisher": "Insider Monkey",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-raises-pt-advanced-172502621.html",
+          "published_date": "2026-06-06",
+          "sentiment": "neutral"
+        },
+        {
+          "ticker": "AMD",
+          "title": "SpaceX IPO Could Create More Wealth Than All IPOs in the Last 20 Years Combined. Here\u2019s Why Early Investors Are Banking On It",
+          "publisher": "24/7 Wall St.",
+          "link": "https://247wallst.com/investing/2026/06/06/spacex-ipo-could-create-more-wealth-than-all-ipos-in-the-last-20-years-combined-heres-why-early-investors-are-banking-on-it/",
+          "published_date": "2026-06-06",
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    "NHY.OL": {
+      "news_score": 0,
+      "explanation": "Recent headlines are neutral or mixed.",
+      "headlines": [
+        {
+          "ticker": "NHY.OL",
+          "title": "NHYDY vs. WPM: Which Stock Is the Better Value Option?",
+          "publisher": "Zacks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nhydy-vs-wpm-stock-better-154003747.html",
+          "published_date": "2026-06-05",
+          "sentiment": "neutral"
+        },
+        {
+          "ticker": "NHY.OL",
+          "title": "NHYDY or BHP: Which Is the Better Value Stock Right Now?",
+          "publisher": "Zacks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nhydy-bhp-better-value-stock-154002422.html",
+          "published_date": "2026-05-20",
+          "sentiment": "neutral"
+        },
+        {
+          "ticker": "NHY.OL",
+          "title": "Is Norsk Hydro ASA (NHYDY) Outperforming Other Basic Materials Stocks This Year?",
+          "publisher": "Zacks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/norsk-hydro-asa-nhydy-outperforming-134004806.html",
+          "published_date": "2026-05-15",
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  }
+}

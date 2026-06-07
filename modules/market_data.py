@@ -2,7 +2,6 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import pandas as pd
-import yfinance as yf
 
 
 @dataclass(frozen=True)
@@ -52,6 +51,8 @@ def load_watchlist(path: Path) -> list[WatchlistItem]:
 
 
 def fetch_price_history(ticker: str, months: int = 6) -> pd.DataFrame:
+    import yfinance as yf
+
     history = yf.download(
         ticker,
         period=f"{months}mo",
